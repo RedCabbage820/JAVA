@@ -150,7 +150,7 @@ public class Practice04 {
 		System.out.printf("나의 총점은 %d점이다.\n", AI_score);
 		if(score == AI_score)
 		{
-			System.out.println("좋은 승부였다. 인간");
+			System.out.println("좋은 승부였다 인간.");
 		}
 		else if(score > AI_score)
 		{
